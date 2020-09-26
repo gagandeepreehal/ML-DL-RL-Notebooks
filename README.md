@@ -6,3 +6,5 @@
 - RL Bandits Algo
 - Toonify
 - StyleGAN2
+- Multithreading
+- MiniWoB Freeride
