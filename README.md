@@ -9,3 +9,4 @@
 - Multithreading
 - MiniWoB Freeride
 - Barycentric Cross-Network Interpolation
+- Wav2Lip
