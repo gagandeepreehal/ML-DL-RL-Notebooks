@@ -8,3 +8,4 @@
 - StyleGAN2
 - Multithreading
 - MiniWoB Freeride
+- Barycentric Cross-Network Interpolation
