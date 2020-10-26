@@ -12,3 +12,4 @@
 - Wav2Lip
 - Video Colourizer
 - DeepDream
+- FaceSwap GAN Lite
